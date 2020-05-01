@@ -10011,5 +10011,5 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
 	<string name="structure_face_data_input_error_expose_features">Không nhìn rõ các phần khuôn mặt</string>
 	<string name="content_description_menu_button">Menu</string>
 	<string name="size_mega_byte">MB</string>
-	<string name="unlock_failed">Lỗi nội bộ</string>>
+	<string name="unlock_failed">Lỗi nội bộ</string>
 </resources>
