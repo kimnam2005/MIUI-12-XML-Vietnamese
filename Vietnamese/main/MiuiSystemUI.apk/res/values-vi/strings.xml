@@ -2196,10 +2196,6 @@ d MMMM"</string>
 	<string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
 	<string name="owner_info_settings_edit_text_hint">Ví dụ: Android của Joe.</string>
 	<string name="bluetooth_talkback_bluetooth">Bluetooth</string>
-	<string name="wifi_security_wpa2">WPA2 PSK</string>
-	<string name="wifi_security_WAPI_CERT">WAPI CERT</string>
-	<string name="wifi_security_short_eap">802.1x</string>
-	<string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Thất bại</string>
 	<string name="wifi_security_owe">Mở tăng cường</string>
 	<string name="wifi_security_passpoint">Passpoint</string>
@@ -2224,5 +2220,5 @@ d MMMM"</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
 	<string name="clear_text_end_icon_content_description">Văn bản</string>
 	<string name="wifi_security_short_wep">WEP</string>
-	<string name="wifi_security_WAPI_PSK">WAPI PSK</string>>
+	<string name="wifi_security_WAPI_PSK">WAPI PSK</string>
 </resources>
